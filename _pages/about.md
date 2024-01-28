@@ -20,6 +20,8 @@ redirect_from:
 
 I am now a master student of computer science in Zhejiang University [KG Lab](https://www.zjukg.org/), advised by Prof. [Huajun Chen](https://scholar.google.com/citations?user=T6om-m4AAAAJ&hl=zh-CN&oi=ao) and Prof. [Wen Zhang](https://scholar.google.com/citations?user=Ig9ho4kAAAAJ&hl=zh-CN). My research interest includes **Multi-modal Knowledge Graph**, **Large Language Models**, and their application in real scenarios. I have published several papers at the top conferences such as SIGKDD, ICDE, ACM MM, ISWC, IJCNN, NLPCC.
 
+I have a online noteboook (mainly in Chinese) on [this link](https://zhang-each.github.io/My-CS-Notebook/) to share my learning notes and daily life.
+
 I am on the job market now, **looking for a summer intership position** about large language models. If you are interested in my research work, you can contact me through my email.
 
 
@@ -30,9 +32,9 @@ I am on the job market now, **looking for a summer intership position** about la
 - *2023.07*: &nbsp;🎉 One paper is accepted by NLPCC 2023.
 - *2023.04*: &nbsp;🎉 One paper is accepted by IJCNN 2023.
 
-# 🌟 Pre-prints 
+# 🌟 Preprints 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2023</div><img src='images/knowpat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering](https://arxiv.org/pdf/2311.06503.pdf)
@@ -40,24 +42,24 @@ I am on the job market now, **looking for a summer intership position** about la
 **Yichi Zhang**, Zhuo Chen, Yin Fang, Lei Cheng, Yanxi Lu, Fangming Li, Wen Zhang, Huajun Chen
 
 [**Project**](https://github.com/zjukg/KnowPAT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This is a work 
+- This is a work about aligning large language model with knowledgeable human preference with external knowledge graphs for domain-specific application.
+- Github Stars: [![](https://img.shields.io/github/stars/zjukg/KnowPAT)](https://github.com/zjukg/KnowPAT)
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/knowpat.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2023</div><img src='images/kopa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Making Large Language Models Perform Better in Knowledge Graph Completion](https://arxiv.org/pdf/2310.06671.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yichi Zhang**, Zhuo Chen, Wen Zhang, Huajun Chen
 
 [**Project**](https://github.com/zjukg/KoPA) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This is a work systematic studying how to incorporate structural information from knowledge graphs into large language models to conduct structure-aware knowledge reasoning.
+- Github Stars: [![](https://img.shields.io/github/stars/zjukg/KoPA)](https://github.com/zjukg/KoPA)
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 📝 Publications
 
