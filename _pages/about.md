@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='about-me'></span>---
+<span class='anchor' id='about-me'></span>
 
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -18,16 +18,15 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-
-I am now a master student in Zhejiang University majoring computer science, advised by Prof. [Huajun Chen](https://scholar.google.com/citations?user=T6om-m4AAAAJ&hl=zh-CN&oi=ao) and Prof. [Wen Zhang](https://scholar.google.com/citations?user=Ig9ho4kAAAAJ&hl=zh-CN). My research interest includes **Multi-modal Knowledge Graph**, **Large Language Models**, and their application in real scenarios. I have published several papers at the top conferences such as SIGKDD, ICDE, ACM MM, ISWC, IJCNN, NLPCC.
+I am now a master student of computer science in Zhejiang University [KG Lab](https://www.zjukg.org/), advised by Prof. [Huajun Chen](https://scholar.google.com/citations?user=T6om-m4AAAAJ&hl=zh-CN&oi=ao) and Prof. [Wen Zhang](https://scholar.google.com/citations?user=Ig9ho4kAAAAJ&hl=zh-CN). My research interest includes **Multi-modal Knowledge Graph**, **Large Language Models**, and their application in real scenarios. I have published several papers at the top conferences such as SIGKDD, ICDE, ACM MM, ISWC, IJCNN, NLPCC.
 
 I am on the job market now, **looking for a summer intership position** about large language models. If you are interested in my research work, you can contact me through my email.
 
 
 # 🔥 News
 - *2023.12*: &nbsp;I join Ant Group for a research intern, focusing on knowledge pre-training for recommender systems.
-- *2023.11*: &nbsp; We pre-print a paper about knowledgeable alignment for large language model on ArXiv.
-- *2023.10*: &nbsp; We pre-print a paper about large language model for knowledge graph reasoning on ArXiv.
+- *2023.11*: &nbsp; We pre-print a paper about **knowledgeable alignment for large language model** on ArXiv.
+- *2023.10*: &nbsp; We pre-print a paper about **large language model for knowledge graph reasoning** on ArXiv.
 - *2023.07*: &nbsp;🎉 One paper is accepted by NLPCC 2023.
 - *2023.04*: &nbsp;🎉 One paper is accepted by IJCNN 2023.
 
@@ -36,11 +35,24 @@ I am on the job market now, **looking for a summer intership position** about la
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering](https://arxiv.org/pdf/2311.06503.pdf)
+
+**Yichi Zhang**, Zhuo Chen, Yin Fang, Lei Cheng, Yanxi Lu, Fangming Li, Wen Zhang, Huajun Chen
+
+[**Project**](https://github.com/zjukg/KnowPAT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This is a work 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/knowpat.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Making Large Language Models Perform Better in Knowledge Graph Completion](https://arxiv.org/pdf/2310.06671.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/zjukg/KoPA) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -58,6 +70,10 @@ I am on the job market now, **looking for a summer intership position** about la
 - `KDD 2022` Knowledge Graph Completion with Pre-trained Multimodal Transformer and Twins Negative Sampling. **Yichi Zhang**, Wen Zhang (UC Track)
 
 # 🐘 Projects
+- Knowledge Graph Enhanced Telecom Fault Analysis. Core participants. Cooperation with Huawei Technology
+
+# 👨‍🔬 Patents
+- 一种基于图神经网络与对抗学习的多模态知识图谱补全方法。陈华钧，张溢弛，张文
 
 
 # 🎖 Honors and Awards

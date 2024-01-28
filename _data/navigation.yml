@@ -6,6 +6,9 @@ main:
   - title: "News"
     url: "/CV/#-news"
 
+  - title: "Preprints"
+    url: "/CV/#-Pre-prints"
+  
   - title: "Publications"
     url: "/CV/#-publications"
 
