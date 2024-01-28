@@ -72,28 +72,30 @@ I am on the job market now, **looking for a summer intership position** about la
 - `KDD 2022` Knowledge Graph Completion with Pre-trained Multimodal Transformer and Twins Negative Sampling. **Yichi Zhang**, Wen Zhang (UC Track)
 
 # 🐘 Projects
-- Knowledge Graph Enhanced Telecom Fault Analysis. Core participants. Cooperation with Huawei Technology
+- Knowledge Graph Enhanced Telecom Fault Analysis. Core participants. Cooperation with Huawei Technology.
+- [NeuralKG](https://github.com/zjukg/NeuralKG). An open-source python library for diverse knowledge graphs representation learning.
 
 # 👨‍🔬 Patents
 - 一种基于图神经网络与对抗学习的多模态知识图谱补全方法。陈华钧，张溢弛，张文
 
 
 # 🎖 Honors and Awards
+- *2023.04* Chiang Chen Scholarship (蒋震奖学金)
 - *2022.06* Outstanding Bachelor's Degree Graduates (优秀毕业生)
 - *2022.04* Distinguished Engineer Scholarship (卓越工程师奖学金)
-- *2021.10* Second-class scholarships in Zhejiang University (校二等奖学金)
-- *2020.12* College scholarships from Higgs Technology (希格斯奖学金)
+- *2021.10* Second-class Scholarships in Zhejiang University (校二等奖学金)
+- *2020.12* College Scholarship from Higgs Technology (希格斯奖学金)
 - *2020.10* Zhejiang Provincial Government Scholarship (浙江省政府奖学金)
-- *2020.10* Second-class scholarships in Zhejiang University (校二等奖学金)
-- *2019.10* Second-class scholarships in Zhejiang University (校二等奖学金)
+- *2020.10* Second-class Scholarship in Zhejiang University (校二等奖学金)
+- *2019.10* Second-class Scholarship in Zhejiang University (校二等奖学金)
 
 # 📖 Educations
 - *2022.09 - 2024.01 (now)*, Master Student, Zhejiang University, major in computer science.
 - *2018.09 - 2022.06*, Undergraduate, Zhejiang University, major in software engineering, GPA: 3.92/4.0, Rank 6/78.
-- *2015.09 - 2018.06* Xinchang Middle School.
+- *2015.09 - 2018.06* Xinchang Middle School. (浙江省新昌中学)
 
 
 # 💻 Internships
-- *2023.12 - now*, Research Intern at [Ant Group](https://www.antgroup.com/), Hangzhou. Advisor: Binbin Hu](https://scholar.google.com/citations?user=a70Jt9oAAAAJ&hl=zh-CN&oi=ao) and [Ziqi Liu](https://scholar.google.com/citations?hl=zh-CN&user=4NYzqlcAAAAJ&view_op=list_works&sortby=pubdate)
+- *2023.12 - now*, Research Intern at [Ant Group](https://www.antgroup.com/), Hangzhou. Advisor: [Binbin Hu](https://scholar.google.com/citations?user=a70Jt9oAAAAJ&hl=zh-CN&oi=ao) and [Ziqi Liu](https://scholar.google.com/citations?hl=zh-CN&user=4NYzqlcAAAAJ&view_op=list_works&sortby=pubdate)
 
 
