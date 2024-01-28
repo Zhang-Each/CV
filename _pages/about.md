@@ -43,7 +43,7 @@ I am on the job market now, **looking for a summer intership position** about la
 
 [**Project**](https://github.com/zjukg/KnowPAT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This is a work about aligning large language model with knowledgeable human preference with external knowledge graphs for domain-specific application.
-- Github Stars: [![](https://img.shields.io/github/stars/zjukg/KnowPAT)](https://github.com/zjukg/KnowPAT)
+- Github Stars: [![](https://img.shields.io/github/stars/zjukg/KnowPAT)](https://github.com/zjukg/KnowPAT) 🌟
 </div>
 </div>
 
@@ -57,7 +57,7 @@ I am on the job market now, **looking for a summer intership position** about la
 
 [**Project**](https://github.com/zjukg/KoPA) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This is a work systematic studying how to incorporate structural information from knowledge graphs into large language models to conduct structure-aware knowledge reasoning.
-- Github Stars: [![](https://img.shields.io/github/stars/zjukg/KoPA)](https://github.com/zjukg/KoPA)
+- Github Stars: [![](https://img.shields.io/github/stars/zjukg/KoPA)](https://github.com/zjukg/KoPA) 🌟
 </div>
 </div>
 
