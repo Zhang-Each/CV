@@ -27,7 +27,6 @@ I am on the job market now, **looking for a summer intership position** about la
 
 # 🔥 News
 - *2024.02*: We preprint our Survey [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](http://arxiv.org/abs/2402.05391).
-
 - *2023.12*: I join Ant Group for a research intern, focusing on knowledge pre-training for recommender systems.
 - *2023.11*: We pre-print a paper about **knowledgeable alignment for large language model** on ArXiv.
 - *2023.10*: We pre-print a paper about **large language model for knowledge graph reasoning** on ArXiv.
@@ -35,6 +34,19 @@ I am on the job market now, **looking for a summer intership position** about la
 - *2023.04*: 🎉 One paper is accepted by IJCNN 2023.
 
 # 🌟 Preprints 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2023</div><img src='images/survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](https://arxiv.org/pdf/2402.05391.pdf)
+
+Zhuo Chen, Yichi Zhang, Yin Fang, Yuxia Geng, Lingbing Guo, Xiang Chen, Qian Li, Wen Zhang
+, Jiaoyan Chen, Yushan Zhu, Jiaqi Li, Xiaoze Liu, Jeff Z. Pan, Ningyu Zhang, Huajun Chen
+[**Project**](https://github.com/zjukg/KG-MM-Survey) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This is a comprehensive survey about multi-modal knowledge graphs and knowledge graph enhanced multi-modal learning.
+- Github Stars: [![](https://img.shields.io/github/stars/zjukg/KG-MM-Survey)](https://github.com/zjukg/KG-MM-Survey) 🌟
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2023</div><img src='images/knowpat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
