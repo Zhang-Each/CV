@@ -26,12 +26,12 @@ I am on the job market now, **looking for a summer intership position** about la
 
 
 # 🔥 News
-- *2024.02*: &nbsp;We preprint our Survey [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](http://arxiv.org/abs/2402.05391).
-- *2023.12*: &nbsp;I join Ant Group for a research intern, focusing on knowledge pre-training for recommender systems.
-- *2023.11*: &nbsp; We pre-print a paper about **knowledgeable alignment for large language model** on ArXiv.
-- *2023.10*: &nbsp; We pre-print a paper about **large language model for knowledge graph reasoning** on ArXiv.
-- *2023.07*: &nbsp;🎉 One paper is accepted by NLPCC 2023.
-- *2023.04*: &nbsp;🎉 One paper is accepted by IJCNN 2023.
+- *2024.02*: We preprint our Survey [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](http://arxiv.org/abs/2402.05391).
+- *2023.12*: I join Ant Group for a research intern, focusing on knowledge pre-training for recommender systems.
+- *2023.11*: We pre-print a paper about **knowledgeable alignment for large language model** on ArXiv.
+- *2023.10*: We pre-print a paper about **large language model for knowledge graph reasoning** on ArXiv.
+- *2023.07*: 🎉 One paper is accepted by NLPCC 2023.
+- *2023.04*: 🎉 One paper is accepted by IJCNN 2023.
 
 # 🌟 Preprints 
 
