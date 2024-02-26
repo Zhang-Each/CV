@@ -43,6 +43,7 @@ I am on the job market now, **looking for a summer intership position** about la
 
 Zhuo Chen, Yichi Zhang, Yin Fang, Yuxia Geng, Lingbing Guo, Xiang Chen, Qian Li, Wen Zhang
 , Jiaoyan Chen, Yushan Zhu, Jiaqi Li, Xiaoze Liu, Jeff Z. Pan, Ningyu Zhang, Huajun Chen
+
 [**Project**](https://github.com/zjukg/KG-MM-Survey) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This is a comprehensive survey about multi-modal knowledge graphs and knowledge graph enhanced multi-modal learning.
 - Github Stars: [![](https://img.shields.io/github/stars/zjukg/KG-MM-Survey)](https://github.com/zjukg/KG-MM-Survey) 🌟
@@ -55,6 +56,7 @@ Zhuo Chen, Yichi Zhang, Yin Fang, Yuxia Geng, Lingbing Guo, Xiang Chen, Qian Li,
 [Unleashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Completion](https://arxiv.org/pdf/2402.15444.pdf)
 
 Yichi Zhang, Zhuo Chen, Lei Liang, Huajun Chen, Wen Zhang
+
 [**Project**](https://github.com/zjukg/AdaMF-MAT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This is a comprehensive survey about multi-modal knowledge graphs completion in the imbalanced environment with adversarial training strategy.
 - Github Stars: [![](https://img.shields.io/github/stars/zjukg/AdaMF-MAT)](https://github.com/zjukg/KG-MM-Survey) 🌟
