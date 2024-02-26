@@ -18,7 +18,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-I am now a master student of computer science in Zhejiang University [KG Lab](https://www.zjukg.org/), advised by Prof. [Huajun Chen](https://scholar.google.com/citations?user=T6om-m4AAAAJ&hl=zh-CN&oi=ao) and Prof. [Wen Zhang](https://scholar.google.com/citations?user=Ig9ho4kAAAAJ&hl=zh-CN). My research interest includes **Multi-modal Knowledge Graph**, **Large Language Models**, and their application in real scenarios. I have published several papers at the top conferences such as SIGKDD, ICDE, ACM MM, ISWC, IJCNN, NLPCC.
+I am now a master student of computer science in Zhejiang University [KG Lab](https://www.zjukg.org/), advised by Prof. [Huajun Chen](https://scholar.google.com/citations?user=T6om-m4AAAAJ&hl=zh-CN&oi=ao) and Prof. [Wen Zhang](https://scholar.google.com/citations?user=Ig9ho4kAAAAJ&hl=zh-CN). My research interest includes **Multi-modal Knowledge Graph**, **Large Language Models**, and their application in real scenarios. I have published several papers at the top conferences such as SIGKDD, ICDE, ACM MM, COLING, ISWC, IJCNN, NLPCC.
 
 I have a online noteboook (mainly in Chinese) on [this link](https://zhang-each.github.io/My-CS-Notebook/) to share my learning notes and daily life.
 
@@ -26,7 +26,7 @@ I am on the job market now, **looking for a summer intership position** about la
 
 
 # 🔥 News
-- *2024.02*: 🎉 One paper about multi-modal knowledge graph completion is accepted by [LREC-COLING](https://lrec-coling-2024.org/) 2024.
+- *2024.02*: 🎉 [One paper](https://arxiv.org/abs/2402.15444) about multi-modal knowledge graph completion is accepted by [LREC-COLING](https://lrec-coling-2024.org/) 2024.
 - *2024.02*: We pre-print our survey paper [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](http://arxiv.org/abs/2402.05391).
 - *2023.12*: I join Ant Group for a research intern, focusing on knowledge pre-training for recommender systems.
 - *2023.11*: We pre-print a paper about **knowledgeable alignment for large language model** on ArXiv.
@@ -46,6 +46,18 @@ Zhuo Chen, Yichi Zhang, Yin Fang, Yuxia Geng, Lingbing Guo, Xiang Chen, Qian Li,
 [**Project**](https://github.com/zjukg/KG-MM-Survey) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This is a comprehensive survey about multi-modal knowledge graphs and knowledge graph enhanced multi-modal learning.
 - Github Stars: [![](https://img.shields.io/github/stars/zjukg/KG-MM-Survey)](https://github.com/zjukg/KG-MM-Survey) 🌟
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2024</div><img src='images/adamf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Unleashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Completion](https://arxiv.org/pdf/2402.15444.pdf)
+
+Yichi Zhang, Zhuo Chen, Lei Liang, Huajun Chen, Wen Zhang
+[**Project**](https://github.com/zjukg/AdaMF-MAT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This is a comprehensive survey about multi-modal knowledge graphs completion in the imbalanced environment with adversarial training strategy.
+- Github Stars: [![](https://img.shields.io/github/stars/zjukg/AdaMF-MAT)](https://github.com/zjukg/KG-MM-Survey) 🌟
 </div>
 </div>
 
