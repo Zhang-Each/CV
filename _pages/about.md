@@ -55,11 +55,11 @@ Zhuo Chen, Yichi Zhang, Yin Fang, Yuxia Geng, Lingbing Guo, Xiang Chen, Qian Li,
 
 [Unleashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Completion](https://arxiv.org/pdf/2402.15444.pdf)
 
-Yichi Zhang, Zhuo Chen, Lei Liang, Huajun Chen, Wen Zhang
+**Yichi Zhang**, Zhuo Chen, Lei Liang, Huajun Chen, Wen Zhang
 
 [**Project**](https://github.com/zjukg/AdaMF-MAT) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This is a comprehensive survey about multi-modal knowledge graphs completion in the imbalanced environment with adversarial training strategy.
-- Github Stars: [![](https://img.shields.io/github/stars/zjukg/AdaMF-MAT)](https://github.com/zjukg/KG-MM-Survey) 🌟
+- Github Stars: [![](https://img.shields.io/github/stars/zjukg/AdaMF-MAT)](https://github.com/zjukg/AdaMF-MAT) 🌟
 </div>
 </div>
 
@@ -92,6 +92,7 @@ Yichi Zhang, Zhuo Chen, Lei Liang, Huajun Chen, Wen Zhang
 
 # 📝 Publications
 
+- `COLING 2024` Unleashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Completion. **Yichi Zhang**, Zhuo Chen, Lei Liang, Huajun Chen, Wen Zhang
 - `ISWC 2023` Rethinking Uncertainly Missing and Ambiguous Visual Modality in Multi-Modal Entity Alignment. Zhuo Chen, Lingbing Guo, Yin Fang, **Yichi Zhang**, Jiaoyan Chen, Jeff Z Pan, Yangning Li, Huajun Chen, Wen Zhang (Oral, Best Paper Candidate)
 - `ACM MM 2023` MEAformer: Multi-modal Entity Alignment Transformer for Meta Modality Hybrid. Zhuo Chen, Jiaoyan Chen, Wen Zhang, Lingbing Guo, Yin Fang, Yufeng Huang, **Yichi Zhang**, Yuxia Geng, Jeff Z Pan, Wenting Song, Huajun Chen (Poster)
 - `NLPCC 2023` MACO: A Modality Adversarial and Contrastive Framework for Modality-missing Multi-modal Knowledge Graph Completion. **Yichi Zhang**, Zhuo Chen, Wen Zhang (Oral)
@@ -105,7 +106,7 @@ Yichi Zhang, Zhuo Chen, Lei Liang, Huajun Chen, Wen Zhang
 - [NeuralKG](https://github.com/zjukg/NeuralKG). An open-source python library for diverse knowledge graphs representation learning.
 
 # 👨‍🔬 Patents
-- 一种基于图神经网络与对抗学习的多模态知识图谱补全方法。陈华钧，张溢弛，张文
+- 一种基于图神经网络与对抗学习的多模态知识图谱补全方法。
 
 
 # 🎖 Honors and Awards
