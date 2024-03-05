@@ -91,15 +91,15 @@ Zhuo Chen, Yichi Zhang, Yin Fang, Yuxia Geng, Lingbing Guo, Xiang Chen, Qian Li,
 </div>
 
 # 📝 Publications
-
-- `COLING 2024` Unleashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Completion. **Yichi Zhang**, Zhuo Chen, Lei Liang, Huajun Chen, Wen Zhang
-- `ISWC 2023` Rethinking Uncertainly Missing and Ambiguous Visual Modality in Multi-Modal Entity Alignment. Zhuo Chen, Lingbing Guo, Yin Fang, **Yichi Zhang**, Jiaoyan Chen, Jeff Z Pan, Yangning Li, Huajun Chen, Wen Zhang (Oral, Best Paper Candidate)
-- `ACM MM 2023` MEAformer: Multi-modal Entity Alignment Transformer for Meta Modality Hybrid. Zhuo Chen, Jiaoyan Chen, Wen Zhang, Lingbing Guo, Yin Fang, Yufeng Huang, **Yichi Zhang**, Yuxia Geng, Jeff Z Pan, Wenting Song, Huajun Chen (Poster)
-- `NLPCC 2023` MACO: A Modality Adversarial and Contrastive Framework for Modality-missing Multi-modal Knowledge Graph Completion. **Yichi Zhang**, Zhuo Chen, Wen Zhang (Oral)
-- `CCKS 2023` CausE: Towards Causal Knowledge Graph Embedding. **Yichi Zhang**, Wen Zhang (Poster)
-- `ICDE 2023` Tele-Knowledge Pre-training for Fault Analysis. Zhuo Chen, Wen Zhang, Yufeng Huang, Mingyang Chen, Yuxia Geng, Hongtao Yu, Zhen Bi, **Yichi Zhang**, Zhen Yao, Wenting Song, Xinliang Wu, Yi Yang, Song Jiang, Zhaoyang Lian, Yingying Li, Huajun Chen (Industry Track, Oral)
-- `IJCNN 2023` Modality-Aware Negative Sampling for Multi-modal Knowledge Graph Embedding. **Yichi Zhang**, Mingyang Chen, Wen Zhang (Oral)
-- `KDD 2022` Knowledge Graph Completion with Pre-trained Multimodal Transformer and Twins Negative Sampling. **Yichi Zhang**, Wen Zhang (UC Track)
+- `KBS 2024` Distributed representations of entities in open-world knowledge graphs. Lingbing Guo, Zhuo Chen, Jiaoyan Chen, **Yichi Zhang**, Zequn Sun, Zhongpu Bo, Yin Fang, Xiaoze Liu, Huajun Chen, Wen Zhang. (CCF-C, JCR Section 1)
+- `COLING 2024` Unleashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Completion. **Yichi Zhang**, Zhuo Chen, Lei Liang, Huajun Chen, Wen Zhang. (CCF-B)
+- `ISWC 2023` Rethinking Uncertainly Missing and Ambiguous Visual Modality in Multi-Modal Entity Alignment. Zhuo Chen, Lingbing Guo, Yin Fang, **Yichi Zhang**, Jiaoyan Chen, Jeff Z Pan, Yangning Li, Huajun Chen, Wen Zhang (CCF-G, Oral, Best Paper Candidate)
+- `ACM MM 2023` MEAformer: Multi-modal Entity Alignment Transformer for Meta Modality Hybrid. Zhuo Chen, Jiaoyan Chen, Wen Zhang, Lingbing Guo, Yin Fang, Yufeng Huang, **Yichi Zhang**, Yuxia Geng, Jeff Z Pan, Wenting Song, Huajun Chen (CCF-A, Poster)
+- `NLPCC 2023` MACO: A Modality Adversarial and Contrastive Framework for Modality-missing Multi-modal Knowledge Graph Completion. **Yichi Zhang**, Zhuo Chen, Wen Zhang (CCF-C, Oral)
+- `CCKS 2023` CausE: Towards Causal Knowledge Graph Embedding. **Yichi Zhang**, Wen Zhang (EI, Poster)
+- `ICDE 2023` Tele-Knowledge Pre-training for Fault Analysis. Zhuo Chen, Wen Zhang, Yufeng Huang, Mingyang Chen, Yuxia Geng, Hongtao Yu, Zhen Bi, **Yichi Zhang**, Zhen Yao, Wenting Song, Xinliang Wu, Yi Yang, Song Jiang, Zhaoyang Lian, Yingying Li, Huajun Chen (CCF-A, Industry Track, Oral)
+- `IJCNN 2023` Modality-Aware Negative Sampling for Multi-modal Knowledge Graph Embedding. **Yichi Zhang**, Mingyang Chen, Wen Zhang (CCF-C, Oral)
+- `KDD 2022` Knowledge Graph Completion with Pre-trained Multimodal Transformer and Twins Negative Sampling. **Yichi Zhang**, Wen Zhang (CCF-A, UC Track)
 
 # 🐘 Projects
 - Knowledge Graph Enhanced Telecom Fault Analysis. Core participants. Cooperation with Huawei Technology.
