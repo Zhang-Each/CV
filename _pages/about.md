@@ -26,6 +26,7 @@ I am on the job market now, **looking for a summer intership position** about la
 
 
 # 🔥 News
+- *2024.03*: 🎉 One paper about multi-modal knowledge graph completion is accepted by [SIGIR](https://sigir-2024.github.io/index.html) 2024.
 - *2024.02*: 🎉 [One paper](https://arxiv.org/abs/2402.15444) about multi-modal knowledge graph completion is accepted by [LREC-COLING](https://lrec-coling-2024.org/) 2024.
 - *2024.02*: We pre-print our survey paper [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](http://arxiv.org/abs/2402.05391).
 - *2023.12*: I join Ant Group for a research intern, focusing on knowledge pre-training for recommender systems.
