@@ -26,8 +26,8 @@ I am on the job market now, **looking for a summer intership position** about la
 
 
 # 🔥 News
-- *2024.03*: 🎉 One paper about multi-modal knowledge graph completion is accepted by [SIGIR](https://sigir-2024.github.io/index.html) 2024.
-- *2024.02*: 🎉 [One paper](https://arxiv.org/abs/2402.15444) about multi-modal knowledge graph completion is accepted by [LREC-COLING](https://lrec-coling-2024.org/) 2024.
+- *2024.03*: 🎉 One paper about multi-modal knowledge graph completion is accepted by [SIGIR 2024](https://sigir-2024.github.io/index.html).
+- *2024.02*: 🎉 [One paper](https://arxiv.org/abs/2402.15444) about multi-modal knowledge graph completion is accepted by [LREC-COLING 2024](https://lrec-coling-2024.org/).
 - *2024.02*: We pre-print our survey paper [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](http://arxiv.org/abs/2402.05391).
 - *2023.12*: I join Ant Group for a research intern, focusing on knowledge pre-training for recommender systems.
 - *2023.11*: We pre-print a paper about **knowledgeable alignment for large language model** on ArXiv.
@@ -92,6 +92,7 @@ Zhuo Chen, Yichi Zhang, Yin Fang, Yuxia Geng, Lingbing Guo, Xiang Chen, Qian Li,
 </div>
 
 # 📝 Publications
+- `SIGIR 2024` NativE: Multi-modal Knowledge Graph Completion in the Wild. **Yichi Zhang**, Zhuo Chen, Lingbing Guo, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen. (CCF-A)
 - `KBS 2024` Distributed representations of entities in open-world knowledge graphs. Lingbing Guo, Zhuo Chen, Jiaoyan Chen, **Yichi Zhang**, Zequn Sun, Zhongpu Bo, Yin Fang, Xiaoze Liu, Huajun Chen, Wen Zhang. (CCF-C, JCR Section 1)
 - `COLING 2024` Unleashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Completion. **Yichi Zhang**, Zhuo Chen, Lei Liang, Huajun Chen, Wen Zhang. (CCF-B)
 - `ISWC 2023` Rethinking Uncertainly Missing and Ambiguous Visual Modality in Multi-Modal Entity Alignment. Zhuo Chen, Lingbing Guo, Yin Fang, **Yichi Zhang**, Jiaoyan Chen, Jeff Z Pan, Yangning Li, Huajun Chen, Wen Zhang (CCF-G, Oral, Best Paper Candidate)
@@ -121,13 +122,13 @@ Zhuo Chen, Yichi Zhang, Yin Fang, Yuxia Geng, Lingbing Guo, Xiang Chen, Qian Li,
 - *2019.10* Second-class Scholarship in Zhejiang University (校二等奖学金)
 
 # 📖 Educations
-- *2022.09 - 2024.01 (now)*, Master Student, Zhejiang University, major in computer science.
+- *2022.09 - present*, Master Student, Zhejiang University, major in computer science.
 - *2018.09 - 2022.06*, Undergraduate, Zhejiang University, major in software engineering, GPA: 3.92/4.0, Rank 6/78.
 - *2015.09 - 2018.06* Xinchang Middle School. (浙江省新昌中学)
 
 
 # 💻 Internships
-- *2023.12 - now*, Research Intern at [Ant Group](https://www.antgroup.com/), Hangzhou. Advisor: [Binbin Hu](https://scholar.google.com/citations?user=a70Jt9oAAAAJ&hl=zh-CN&oi=ao) and [Ziqi Liu](https://scholar.google.com/citations?hl=zh-CN&user=4NYzqlcAAAAJ&view_op=list_works&sortby=pubdate)
+- *2023.12 - present*, Research Intern at [Ant Group](https://www.antgroup.com/), Hangzhou. Advisor: [Binbin Hu](https://scholar.google.com/citations?user=a70Jt9oAAAAJ&hl=zh-CN&oi=ao) and [Ziqi Liu](https://scholar.google.com/citations?hl=zh-CN&user=4NYzqlcAAAAJ&view_op=list_works&sortby=pubdate)
 
 
 
