@@ -37,6 +37,19 @@ I am on the job market now, **looking for a summer intership position** about la
 
 # 🌟 Preprints 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2024</div><img src='images/native.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[NativE: Multi-modal Knowledge Graph Completion in the Wild](https://www.researchgate.net/publication/379508830_NativE_Multi-modal_Knowledge_Graph_Completion_in_the_Wild)
+
+Yichi Zhang, Zhuo Chen, Lingbing Guo, Yushan Zhu, Wen Zhang, Huajun Chen
+
+[**Project**](https://github.com/zjukg/NATIVE) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This is a paper about multi-modal knowledge graphs completion with diverse and imbalanced modality information.
+- Github Stars: [![](https://img.shields.io/github/stars/zjukg/NATIVE)](https://github.com/zjukg/NATIVE) 🌟
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
