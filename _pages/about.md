@@ -35,14 +35,28 @@ I am on the job market now, **looking for a summer intership position** about la
 - *2023.07*: 🎉 One paper is accepted by NLPCC 2023.
 - *2023.04*: 🎉 One paper is accepted by IJCNN 2023.
 
-# 🌟 Preprints 
+# 🌟 Preprints
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/mygo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MyGO: Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion](https://arxiv.org/abs/2404.09468)
+
+Yichi Zhang, Zhuo Chen, Lingbing Guo, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen
+
+[**Project**](https://github.com/zjukg/MyGO) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This is a paper about fine-grained modality information tokenization, fusion, and augmentation in multi-modal knowledge graphs.
+- Github Stars: [![](https://img.shields.io/github/stars/zjukg/MyGO)](https://github.com/zjukg/MyGO) 🌟
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2024</div><img src='images/native.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [NativE: Multi-modal Knowledge Graph Completion in the Wild](https://www.researchgate.net/publication/379508830_NativE_Multi-modal_Knowledge_Graph_Completion_in_the_Wild)
 
-Yichi Zhang, Zhuo Chen, Lingbing Guo, Yushan Zhu, Wen Zhang, Huajun Chen
+Yichi Zhang, Zhuo Chen, Lingbing Guo, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen
 
 [**Project**](https://github.com/zjukg/NATIVE) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This is a paper about multi-modal knowledge graphs completion with diverse and imbalanced modality information.
