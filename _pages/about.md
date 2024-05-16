@@ -25,7 +25,7 @@ I have a online noteboook (mainly in Chinese) on [this link](https://zhang-each.
 
 # 🔥 News
 
-- *2024.03*: 🎉 Our paper about knowledgeable alignment for large language models has been accepted by [ACL 2024](https://2024.aclweb.org/) (Findings).
+- *2024.05*: 🎉 Our paper about knowledgeable alignment for large language models has been accepted by [ACL 2024](https://2024.aclweb.org/) (Findings).
 - *2024.04* We pre-print a paper about **[fine-grained tokenization for multi-modal knowledge graphs](https://arxiv.org/abs/2404.09468)** on ArXiv.
 - *2024.03*: 🎉 [Our paper](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.171259566.60211714) about multi-modal knowledge graph completion is accepted by [SIGIR 2024](https://sigir-2024.github.io/index.html).
 - *2024.02*: 🎉 [One paper](https://arxiv.org/abs/2402.15444) about multi-modal knowledge graph completion is accepted by [LREC-COLING 2024](https://lrec-coling-2024.org/).
@@ -33,7 +33,6 @@ I have a online noteboook (mainly in Chinese) on [this link](https://zhang-each.
 - *2023.12*: I join Ant Group for a research intern, focusing on knowledge pre-training for recommender systems.
 - *2023.10*: We pre-print a paper about **large language model for knowledge graph reasoning** on ArXiv.
 - *2023.07*: 🎉 One paper is accepted by NLPCC 2023.
-- *2023.04*: 🎉 One paper is accepted by IJCNN 2023.
 
 # 🌟 Preprints
 
