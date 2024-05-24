@@ -277,6 +277,7 @@ Zhuo Chen, Yichi Zhang, Yin Fang, Yuxia Geng, Lingbing Guo, Xiang Chen, Qian Li,
         }
     }
 </script>
+<link rel="stylesheet" type="text/css" href="style.css">
 <div style="display: flex;">
     <div class="highlight_research_tab" onclick="toggle_research_vis('knowledge_transfer', this); toggle_goal_vis('knowledge_transfer_button', 'knowledge_transfer_goal_tabs', 'cross_domain_learning') ">Knowledge Transfer</div>
     <div class="research_tab" onclick="toggle_research_vis('collaborative_learning', this);toggle_goal_vis('collaborative_learning_button', 'collaborative_learning_goal_tabs', 'collaboration_llm')">Collaborative Learning</div>
