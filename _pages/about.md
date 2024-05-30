@@ -24,9 +24,9 @@ I have a online noteboook (mainly in Chinese) on [this link](https://zhang-each.
 
 
 # 🔥 News
-
+- *2024.05*  We pre-print two papers about [knowledge pre-training for diverse downstream tasks](https://arxiv.org/abs/2405.13085) and [mixture of modality knowledge experts in multi-modal knowledge graph](https://arxiv.org/abs/2405.16869)
 - *2024.05*: 🎉 Our paper about knowledgeable alignment for large language models has been accepted by [ACL 2024](https://2024.aclweb.org/) (Findings).
-- *2024.04* We pre-print a paper about **[fine-grained tokenization for multi-modal knowledge graphs](https://arxiv.org/abs/2404.09468)** on ArXiv.
+- *2024.04*  We pre-print a paper about **[fine-grained tokenization for multi-modal knowledge graphs](https://arxiv.org/abs/2404.09468)** on ArXiv.
 - *2024.03*: 🎉 [Our paper](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.171259566.60211714) about multi-modal knowledge graph completion is accepted by [SIGIR 2024](https://sigir-2024.github.io/index.html).
 - *2024.02*: 🎉 [One paper](https://arxiv.org/abs/2402.15444) about multi-modal knowledge graph completion is accepted by [LREC-COLING 2024](https://lrec-coling-2024.org/).
 - *2024.02*: We pre-print our survey paper [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](http://arxiv.org/abs/2402.05391).
@@ -35,6 +35,32 @@ I have a online noteboook (mainly in Chinese) on [this link](https://zhang-each.
 - *2023.07*: 🎉 One paper is accepted by NLPCC 2023.
 
 # 🌟 Preprints
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/momok.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mixture of Modality Knowledge Experts for Robust Multi-modal Knowledge Graph Completion](https://arxiv.org/abs/2405.16869)
+
+Yichi Zhang, Zhuo Chen, Lingbing Guo, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen
+
+[**Project**](https://github.com/zjukg/MoMoK) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This is a paper about build mixture-of-experts networks in multi-modal knowledge graphs.
+- Github Stars: [![](https://img.shields.io/github/stars/zjukg/MoMoK)](https://github.com/zjukg/MoMoK) 🌟
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/mudok.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-domain Knowledge Graph Collaborative Pre-training and Prompt Tuning for Diverse Downstream Tasks](https://arxiv.org/abs/2405.13085)
+
+Yichi Zhang, Binbin Hu, Zhuo Chen, Lingbing Guo, Ziqi Liu, Zhiqiang Zhang, Lei Liang, Huajun Chen, Wen Zhang
+
+[**Project**](https://github.com/zjukg/MuDoK) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This is a paper about unified pre-training and prompt tuning for item knowledge graphs to serve diverse downstream tasks like recommendation and text understanding.
+- Github Stars: [![](https://img.shields.io/github/stars/zjukg/MuDoK)](https://github.com/zjukg/MuDoK) 🌟
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/mygo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -159,6 +185,6 @@ Zhuo Chen, Yichi Zhang, Yin Fang, Yuxia Geng, Lingbing Guo, Xiang Chen, Qian Li,
 - *2023.12 - present*, Research Intern at [Ant Group](https://www.antgroup.com/), Hangzhou. Advisor: [Binbin Hu](https://scholar.google.com/citations?user=a70Jt9oAAAAJ&hl=zh-CN&oi=ao) and [Ziqi Liu](https://scholar.google.com/citations?hl=zh-CN&user=4NYzqlcAAAAJ&view_op=list_works&sortby=pubdate)
 
 # ✍️ Academic Service
-- Conference Reviewer: WWW 2024, ARR 2023&2024, ACM MM 2024, IJCNN 2024
+- Conference Reviewer: WWW 2024, ARR 2023/2024, ACM MM 2024, IJCNN 2024
 
 <a href="https://info.flagcounter.com/YCFC"><img src="https://s11.flagcounter.com/mini/YCFC/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
