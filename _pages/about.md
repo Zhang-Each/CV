@@ -22,9 +22,11 @@ I am now a master student of computer science in Zhejiang University [KG Lab](ht
 
 I have a online noteboook (mainly in Chinese) on [this link](https://zhang-each.github.io/My-CS-Notebook/) to share my learning notes and daily life.
 
+I am looking for a Ph.D. position of 2025.
+
 
 # 🔥 News
-- *2024.05*  We pre-print two papers about [knowledge pre-training for diverse downstream tasks](https://arxiv.org/abs/2405.13085) and [mixture of modality knowledge experts in multi-modal knowledge graph](https://arxiv.org/abs/2405.16869)
+- *2024.05*  We pre-print two papers about [knowledge pre-training for diverse downstream tasks](https://arxiv.org/abs/2405.13085) and [mixture of modality knowledge experts in multi-modal knowledge graph](https://arxiv.org/abs/2405.16869).
 - *2024.05*: 🎉 Our paper about knowledgeable alignment for large language models has been accepted by [ACL 2024](https://2024.aclweb.org/) (Findings).
 - *2024.04*  We pre-print a paper about **[fine-grained tokenization for multi-modal knowledge graphs](https://arxiv.org/abs/2404.09468)** on ArXiv.
 - *2024.03*: 🎉 [Our paper](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.171259566.60211714) about multi-modal knowledge graph completion is accepted by [SIGIR 2024](https://sigir-2024.github.io/index.html).
@@ -145,7 +147,7 @@ Zhuo Chen, Yichi Zhang, Yin Fang, Yuxia Geng, Lingbing Guo, Xiang Chen, Qian Li,
 </div>
 
 # 📝 Publications
-- `ACL 2024` Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering. **Yichi Zhang**, Zhuo Chen, Yin Fang, Lei Cheng, Yanxi Lu, Fangming Li, Wen Zhang, Huajun Chen (CCF-A)
+- `ACL 2024 (Findings)` Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering. **Yichi Zhang**, Zhuo Chen, Yin Fang, Lei Cheng, Yanxi Lu, Fangming Li, Wen Zhang, Huajun Chen (CCF-A)
 - `SIGIR 2024` NativE: Multi-modal Knowledge Graph Completion in the Wild. **Yichi Zhang**, Zhuo Chen, Lingbing Guo, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen. (CCF-A)
 - `KBS 2024` Distributed representations of entities in open-world knowledge graphs. Lingbing Guo, Zhuo Chen, Jiaoyan Chen, **Yichi Zhang**, Zequn Sun, Zhongpu Bo, Yin Fang, Xiaoze Liu, Huajun Chen, Wen Zhang. (CCF-C, JCR Section 1)
 - `COLING 2024` Unleashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Completion. **Yichi Zhang**, Zhuo Chen, Lei Liang, Huajun Chen, Wen Zhang. (CCF-B)
