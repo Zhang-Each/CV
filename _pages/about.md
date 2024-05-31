@@ -22,7 +22,7 @@ I am now a master student of computer science in Zhejiang University [KG Lab](ht
 
 I have a online noteboook (mainly in Chinese) on [this link](https://zhang-each.github.io/My-CS-Notebook/) to share my learning notes and daily life.
 
-I am looking for a Ph.D. position of 2025.
+I am looking for a Ph.D. position of 2025 spring and autumn.
 
 
 # 🔥 News
