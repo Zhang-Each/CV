@@ -41,7 +41,7 @@ I am looking for a Ph.D. position of 2025 spring and autumn.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/momok.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mixture of Modality Knowledge Experts for Robust Multi-modal Knowledge Graph Completion](https://arxiv.org/abs/2405.16869)
+[**Mixture of Modality Knowledge Experts for Robust Multi-modal Knowledge Graph Completion**](https://arxiv.org/abs/2405.16869)
 
 Yichi Zhang, Zhuo Chen, Lingbing Guo, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen
 
@@ -94,7 +94,7 @@ Yichi Zhang, Zhuo Chen, Lingbing Guo, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2024</div><img src='images/native.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[NativE: Multi-modal Knowledge Graph Completion in the Wild](https://www.researchgate.net/publication/379508830_NativE_Multi-modal_Knowledge_Graph_Completion_in_the_Wild)
+[NativE: Multi-modal Knowledge Graph Completion in the Wild](https://arxiv.org/abs/2406.17605)
 
 **Yichi Zhang**, Zhuo Chen, Lingbing Guo, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen
 
