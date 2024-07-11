@@ -22,7 +22,7 @@ I am now a master student of computer science in Zhejiang University [KG Lab](ht
 
 I have a online noteboook (mainly in Chinese) on [this link](https://zhang-each.github.io/My-CS-Notebook/) to share my learning notes and daily life.
 
-I am looking for a Ph.D. position of 2025 spring and autumn.
+I am looking for a Ph.D. position of 2025 spring and fall.
 
 
 # 🔥 News
@@ -80,7 +80,7 @@ Yichi Zhang, Zhuo Chen, Lingbing Guo, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/knowpat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering](https://arxiv.org/pdf/2311.06503.pdf)
+[**Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering**](https://arxiv.org/pdf/2311.06503.pdf)
 
 **Yichi Zhang**, Zhuo Chen, Yin Fang, Lei Cheng, Yanxi Lu, Fangming Li, Wen Zhang, Huajun Chen
 
@@ -94,7 +94,7 @@ Yichi Zhang, Zhuo Chen, Lingbing Guo, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2024</div><img src='images/native.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[NativE: Multi-modal Knowledge Graph Completion in the Wild](https://arxiv.org/abs/2406.17605)
+[**NativE: Multi-modal Knowledge Graph Completion in the Wild**](https://arxiv.org/abs/2406.17605)
 
 **Yichi Zhang**, Zhuo Chen, Lingbing Guo, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang, Huajun Chen
 
@@ -107,7 +107,7 @@ Yichi Zhang, Zhuo Chen, Lingbing Guo, Yajing Xu, Binbin Hu, Ziqi Liu, Wen Zhang,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](https://arxiv.org/pdf/2402.05391.pdf)
+[**Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey**](https://arxiv.org/pdf/2402.05391.pdf)
 
 Zhuo Chen, **Yichi Zhang**, Yin Fang, Yuxia Geng, Lingbing Guo, Xiang Chen, Qian Li, Wen Zhang
 , Jiaoyan Chen, Yushan Zhu, Jiaqi Li, Xiaoze Liu, Jeff Z. Pan, Ningyu Zhang, Huajun Chen
@@ -121,7 +121,7 @@ Zhuo Chen, **Yichi Zhang**, Yin Fang, Yuxia Geng, Lingbing Guo, Xiang Chen, Qian
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2024</div><img src='images/adamf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Unleashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Completion](https://arxiv.org/pdf/2402.15444.pdf)
+[**Unleashing the Power of Imbalanced Modality Information for Multi-modal Knowledge Graph Completion**](https://arxiv.org/pdf/2402.15444.pdf)
 
 **Yichi Zhang**, Zhuo Chen, Lei Liang, Huajun Chen, Wen Zhang
 
@@ -160,8 +160,8 @@ Zhuo Chen, **Yichi Zhang**, Yin Fang, Yuxia Geng, Lingbing Guo, Xiang Chen, Qian
 - `KDD 2022` Knowledge Graph Completion with Pre-trained Multimodal Transformer and Twins Negative Sampling. **Yichi Zhang**, Wen Zhang (CCF-A, UC Track)
 
 # 🐘 Projects
-- Knowledge Graph Enhanced Telecom Fault Analysis. Core participants. Cooperation with Huawei Technology.
-- [NeuralKG](https://github.com/zjukg/NeuralKG). An open-source python library for diverse knowledge graphs representation learning.
+- Knowledge Graph Enhanced Telecom Fault Analysis. Core participants. Cooperation with Huawei Technology. (2021-2024)
+- [NeuralKG](https://github.com/zjukg/NeuralKG). An open-source python library for diverse knowledge graphs representation learning. (2021-2022)
 
 # 👨‍🔬 Patents
 - 一种基于图神经网络与对抗学习的多模态知识图谱补全方法。
@@ -187,7 +187,7 @@ Zhuo Chen, **Yichi Zhang**, Yin Fang, Yuxia Geng, Lingbing Guo, Xiang Chen, Qian
 - *2023.12 - present*, Research Intern at [Ant Group](https://www.antgroup.com/), Hangzhou. Advisor: [Binbin Hu](https://scholar.google.com/citations?user=a70Jt9oAAAAJ&hl=zh-CN&oi=ao) and [Ziqi Liu](https://scholar.google.com/citations?hl=zh-CN&user=4NYzqlcAAAAJ&view_op=list_works&sortby=pubdate)
 
 # ✍️ Academic Service
-- Conference Reviewer: WWW 2024, ARR 2023/2024, ACM MM 2024, IJCNN 2024.
+- Conference Reviewer: Neurips 2024, WWW 2024, ARR 2023/2024, ACM MM 2024, IJCNN 2024.
 - Conference Volunteer: ISWC 2023, IJCKG 2022.
 
 <a href="https://info.flagcounter.com/YCFC"><img src="https://s11.flagcounter.com/mini/YCFC/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" alt="Flag Counter" border="0"></a>
